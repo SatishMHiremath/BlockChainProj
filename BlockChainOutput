@@ -1,0 +1,33 @@
+Trying to Mine block 1... 
+Block Mined!!! : 0000066c441a59ba298a1db605726d0ee44cd6c58be0933efa3d6a083c1f7573
+Trying to Mine block 2... 
+Block Mined!!! : 0000086429781751a1ea601cde253873401f6b43c2bccbb59db556dc8af0f527
+Trying to Mine block 3... 
+Block Mined!!! : 0000027efe94f2b421854649efab6ada530b6b203989a7a08c41f80d4b26f285
+
+Blockchain is Valid: true
+
+The block chain: 
+[
+  {
+    "hash": "0000066c441a59ba298a1db605726d0ee44cd6c58be0933efa3d6a083c1f7573",
+    "previousHash": "0",
+    "data": "Hi im the first block",
+    "timeStamp": 1578316902523,
+    "nonce": 3517330
+  },
+  {
+    "hash": "0000086429781751a1ea601cde253873401f6b43c2bccbb59db556dc8af0f527",
+    "previousHash": "0000066c441a59ba298a1db605726d0ee44cd6c58be0933efa3d6a083c1f7573",
+    "data": "Yo im the second block",
+    "timeStamp": 1578316909048,
+    "nonce": 197223
+  },
+  {
+    "hash": "0000027efe94f2b421854649efab6ada530b6b203989a7a08c41f80d4b26f285",
+    "previousHash": "0000086429781751a1ea601cde253873401f6b43c2bccbb59db556dc8af0f527",
+    "data": "Hey im the third block",
+    "timeStamp": 1578316909450,
+    "nonce": 728794
+  }
+]
